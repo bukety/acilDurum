@@ -17,3 +17,11 @@ Acil durum modülümde ambulansı arayan hastaların arama sebepleri ve kişi bi
 
 
 Kişi ekrana bilgilerini girdiğinde bu bilgileri ilgili tabloya kaydediyorum.Ekle butonuyla yeni bilgiler girebilir, sil butonuyla var olan bir kaydı silebilir veya listele butonuyla tabloda bulunan bütün verileri görebilir.
+
+Migration işlemi:
+
+Öncelikle aşağıdaki komutu kullanarak tablolarımı oluşturdum:
+
+![ekran alintisi4](https://user-images.githubusercontent.com/45846545/50739575-95d4ff00-11f3-11e9-9d99-7a82f010dc66.PNG)
+
+Aynı komutu saglikBilgi tablom için de yazdım.Daha sonra 
