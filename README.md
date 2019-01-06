@@ -6,3 +6,8 @@ Modülümün kullanılabilmesi için öncelikle bilgisayarda kurulumun tamamlanm
 
 gidilerek gerekli işlemler yapılmalıdır.
 Daha sonra aşağıdaki komutlar uygulanmalıdır:
+
+![ekran alintisi1](https://user-images.githubusercontent.com/45846545/50739440-7dfc7b80-11f1-11e9-8091-e6bdc486b419.PNG)
+
+
+Acil durum modülümde ambulansı arayan hastaların arama sebepleri ve kişi bilgilerinin olduğu iki adet tablo var 
