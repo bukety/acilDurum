@@ -25,3 +25,8 @@ Migration işlemi:
 ![ekran alintisi4](https://user-images.githubusercontent.com/45846545/50739575-95d4ff00-11f3-11e9-9d99-7a82f010dc66.PNG)
 
 Aynı komutu saglikBilgi tablom için de yazdım.Daha sonra 
+
+![ekran alintisi3](https://user-images.githubusercontent.com/45846545/50739640-5d81f080-11f4-11e9-9353-89df65eabd37.PNG)
+
+
+komutunu da uygulayarak migration işlemimi tamamlamış oldum.
